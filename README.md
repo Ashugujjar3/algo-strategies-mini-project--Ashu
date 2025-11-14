@@ -5,7 +5,7 @@ This repository contains detailed explanations, analyses, and code snippets for 
 Each section includes problem descriptions, algorithm logic, time/space complexity, and (where applicable) visualizations and real-world considerations.
 
 📘 Contents
-Problem 1 — Scheduling TV Commercials to Maximize Impact (Greedy Job Sequencing)
+## Problem 1 — Scheduling TV Commercials to Maximize Impact (Greedy Job Sequencing)
 
 Objective:
 Schedule commercials into available time slots to maximize revenue, ensuring each slot contains at most one ad.
@@ -31,7 +31,7 @@ Space: O(d + n)
 Notes:
 Visualizations included in the document simulate ads vs. revenue.
 
-Problem 2 — Maximizing Profit with Limited Budget (0/1 Knapsack)
+## Problem 2 — Maximizing Profit with Limited Budget (0/1 Knapsack)
 
 Objective:
 Pick items such that:
@@ -60,7 +60,7 @@ Fractional funding (→ Fractional Knapsack)
 
 Changing budgets requiring re-optimization
 
-Problem 3 — Solving Sudoku Puzzle (Backtracking)
+## Problem 3 — Solving Sudoku Puzzle (Backtracking)
 
 Objective:
 Fill a 9×9 Sudoku board by checking validity in rows, columns, and 3×3 subgrids.
@@ -80,7 +80,7 @@ Space: O(m) recursion depth
 Notes:
 Optional performance visualizations measure solver time vs. number of empty cells.
 
-Problem 4 — Brute-force: Safe Simulation & Analysis
+## Problem 4 — Brute-force: Safe Simulation & Analysis
 
 Objective:
 Provide a non-invasive, safe computation-only simulation of brute-force attack time estimates.
